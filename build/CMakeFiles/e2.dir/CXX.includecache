@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/karlnico/p-links/e2git/c2.cc
+
+/Users/karlnico/p-links/e2git/e2.h
+
+/Users/karlnico/p-links/e2git/main.cc
+iostream
+-
+vector
+-
+algorithm
+-
+chrono
+-
+random
+-
+future
+-
+numeric
+-
+e2.h
+/Users/karlnico/p-links/e2git/e2.h
+
